@@ -43,17 +43,18 @@
 <br>
 
 
-<img src="perawit.png" width="100%">
+<img src="perawit_new.png" width="100%">
 
 <br>
 
 ## 🎓 My Certificate :
 
 <p>
-    <img width="250" src="1.png "/>
-    <img width="250" src="2.png" />
-    <img width="250" src="3.png "/>
-    <img width="250" src="4.png "/>
+    <img width="250" src="certificate/1.jpg"/>
+    <img width="250" src="certificate/2.jpg"/>
+    <img width="250" src="certificate/3.jpg"/>
+    <img width="250" src="certificate/4.jpg"/>
+    <img width="250" src="certificate/5.jpg"/>
 </p>
 
 <br>
@@ -61,10 +62,18 @@
 ## 💼 My Experience :
 
 <p>
-    <img width="250" src="1.png "/>
-    <img width="250" src="2.png" />
-    <img width="250" src="3.png "/>
-    <img width="250" src="4.png "/>
+    <img width="150" src="experience/1.jpg"/>
+    <img width="150" src="experience/2.jpg"/>
+    <img width="150" src="experience/3.jpg"/>
+    <img width="150" src="experience/4.jpg"/>
+    <img width="150" src="experience/5.jpg"/>
+    <img width="150" src="experience/6.jpg"/>
+    <img width="150" src="experience/7.jpg"/>
+    <img width="150" src="experience/8.jpg"/>
+    <img width="150" src="experience/9.jpg"/>
+    <img width="150" src="experience/10.jpg"/>
+    <img width="150" src="experience/11.jpg"/>
+    <img width="150" src="experience/12.jpg"/>
 </p>
 
 <br>
@@ -74,7 +83,7 @@
 
 <a href="http://www.github.com/prwthub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prwthub&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/prwthub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prwthub&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/prwthub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prwthub&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
   
   
 
